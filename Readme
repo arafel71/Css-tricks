@@ -1,0 +1,8 @@
+Texte dégradé en couleur :
+--------------------------
+.logoText {
+    font-size: 120px;
+    background: linear-gradient(to right, #2ecc40, #39cccc);
+    color: transparent;
+    background-clip: text;
+}
